@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: A beginners’ guide to start blog | Blog kaise start karain
-date: 2021-07-08T08:49:27.682Z
+date: 2021-07-07T08:55:56.596Z
 description: Are looking for basic guide of blog? then you come to the right
   place. I will teach you all the basic things with them you will start your own
   blog from the scratch.
